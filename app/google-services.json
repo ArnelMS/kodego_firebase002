@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "632366541183",
+    "project_id": "fir-002-7a190",
+    "storage_bucket": "fir-002-7a190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632366541183:android:3227b79050df4eede4124a",
+        "android_client_info": {
+          "package_name": "com.kodego.activity.app.firebase002"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632366541183-3058h1n5i1t16u70g7o9hgqgp0l96lsi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4AhZE2LwQl56B4Jzw5zJg42QTzERQI-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632366541183-3058h1n5i1t16u70g7o9hgqgp0l96lsi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
